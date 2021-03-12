@@ -2,7 +2,7 @@
 ### Github Stats
 ##### Hey hey...👋
 
-![](https://komarev.com/ghpvc/?username=Rizal-XD&color=green)
+![](https://komarev.com/ghpvc/?username=Datez-Kun&color=green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizal-XD&layout=compact)](https://github.com/Rizal-XD/github-readme-stats)
 
